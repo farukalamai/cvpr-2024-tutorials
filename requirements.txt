@@ -1,0 +1,10 @@
+transformers 
+einops 
+gradio 
+pillow
+torch
+torchvision
+opencv-python
+timm==0.9.12
+accelerate==0.25.0
+supervision
